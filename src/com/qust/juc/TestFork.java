@@ -1,4 +1,4 @@
-package com.qust;
+package com.qust.juc;
 
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveTask;

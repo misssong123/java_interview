@@ -1,4 +1,4 @@
-package com.qust;
+package com.qust.juc;
 
 public class Test {
     public void test(){

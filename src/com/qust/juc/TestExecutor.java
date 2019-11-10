@@ -1,4 +1,4 @@
-package com.qust;
+package com.qust.juc;
 
 import jdk.management.resource.internal.inst.InitInstrumentation;
 

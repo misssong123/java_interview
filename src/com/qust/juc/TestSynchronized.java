@@ -1,4 +1,4 @@
-package com.qust;
+package com.qust.juc;
 //测试八种不同情况
 public class TestSynchronized {
     public static void main(String[] args) {

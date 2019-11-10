@@ -1,4 +1,4 @@
-package com.qust;
+package com.qust.juc;
 //测试顺序打印ABC
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
